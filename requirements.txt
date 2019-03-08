@@ -1,0 +1,5 @@
+Django==2.1.7
+djangorestframework==3.9.2
+feedparser==5.2.1
+mysqlclient==1.4.2
+arrow==0.13.1
